@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ExamenApp</string>
+    <string name="btnHola">Salut</string>
+    <string name="btn_ingles">english</string>
+    <string name="btn_espanol">espanole</string>
+    <string name="titulo_alerta">alert title</string>
+    <string name="mensaje_alerta">clicke in boton</string>
+    <string name="sin_seleccionar">select no</string>
+    <string name="regresa">regrete</string>
+</resources>

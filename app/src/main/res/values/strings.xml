@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">ExamenApp</string>
+    <string name="btnHola">hello</string>
+    <string name="btn_ingles">English</string>
+    <string name="btn_espanol">spanish</string>
+    <string name="titulo_alerta">Title alert</string>
+    <string name="mensaje_alerta">button click</string>
+    <string name="sin_seleccionar">without select</string>
+    <string name="regresa">return</string>
 </resources>
